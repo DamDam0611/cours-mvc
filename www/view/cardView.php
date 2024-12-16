@@ -1,5 +1,5 @@
 <!-- cardView.php -->
-<div class="player-card overlay" style="background: linear-gradient(to bottom, transparent 50%, #ea0024), url('<?= htmlspecialchars($personnage->avatar) ?>'), url('/img/default.png');">
+<div class="player-card overlay" style="background: linear-gradient(to bottom, transparent 50%, #ea0024), url('<?= htmlspecialchars($personnage->avatar) ?>'), url('/img/default.webp');">
     <div class="player-name">
         <h2><?= htmlspecialchars($personnage->getNom()) ?></h2>
     </div>

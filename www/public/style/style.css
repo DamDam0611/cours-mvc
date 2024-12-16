@@ -106,7 +106,7 @@ pre {
     max-width: 968px;
     margin: 5rem auto;
     font-size: 1.2rem;
-    color: gray;
+    color: #FFFF00;
     text-align: left;
 
     font-weight: 800;
@@ -123,10 +123,11 @@ main {
 }
 
 .main-content {
-    background: #fff;
-    padding: 30px;
+    background: #6495ED;
+    color: black;
+    padding: 50px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    max-width: 800px;
+    max-width: 1000px;
     width: 100%;
     text-align: center;
 }
